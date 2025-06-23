@@ -65,7 +65,7 @@ and it’s already waiting for you.
 ---
 
 ### 🛠 built in unity  
-### ☕ assembled from caffeine, late-night code loops, and the kind of love for gamedev that borders on obsession.
+### ☕ assembled from caffeine, thanks to unity3D and inspiration from Schedule I.
 
 ---
 
