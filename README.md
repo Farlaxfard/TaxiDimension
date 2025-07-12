@@ -24,24 +24,29 @@ you are a **professional taxi driver** from the **Taxi Dimension**.
 a world powered by transit—where only taxis rule the roads... the art of *picking someone up and taking them somewhere else.*
 
 but then came the **dimensional bang**.
+but then came the **dimensional bang**.
 
 the event.  
 the implosion.  
 the reason everything changed.  
 no one believed the warnings. not even you.  
 you saw it on the TV—thought it was a troll.  
-but two minutes later, the sky cracked open like a dropped egg.  
-the **Taxi Dimension** was gone.
+but that exact moment, the sky began to have a—tear.  
+not a crack. not lightning.  
+a long, slow tear like paper soaked in time.  
+the **Taxi Dimension** is actually gone.
 
 your only escape?  
 a forgotten, dusty **dimension shifter** in your basement.  
 you didn’t even know why you had it.  
+maybe it was always meant for this.  
+maybe it was never meant to be used.  
+but you used it.  
+and now... you’re here.
 but you used it. and now... you’re here.
-
 here, where they only know bikes.  
-individual, isolated motion. no doors. no destinations shared.
 
-and now... you’re here.  
+you’re here.
 and they’re starting to react.  
 and your goal is simple:  
 **revive what was lost.**
