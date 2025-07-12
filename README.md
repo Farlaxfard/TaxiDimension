@@ -23,30 +23,10 @@ built in Unity, inspired by *Schedule One* and that feeling of a game you want t
 you are a **professional taxi driver** from the **Taxi Dimension**.  
 a world powered by transit—where only taxis rule the roads... the art of *picking someone up and taking them somewhere else.*
 
-but then came the **dimensional bang**.
-but then came the **dimensional bang**.
-
-the event.  
-the implosion.  
-the reason everything changed.  
-no one believed the warnings. not even you.  
-you saw it on the TV—thought it was a troll.  
-but that exact moment, the sky began to have a—tear.  
-not a crack. not lightning.  
-a long, slow tear like paper soaked in time.  
-the **Taxi Dimension** is actually gone.
-
-your only escape?  
-a forgotten, dusty **dimension shifter** in your basement.  
-you didn’t even know why you had it.  
-maybe it was always meant for this.  
-maybe it was never meant to be used.  
-but you used it.  
-and now... you’re here.
-but you used it. and now... you’re here.
 here, where they only know bikes.  
+individual, isolated motion. no doors. no destinations shared.
 
-you’re here.
+and now... you’re here.  
 and they’re starting to react.  
 and your goal is simple:  
 **revive what was lost.**
@@ -79,9 +59,7 @@ and it’s already waiting for you.
 - everyone rides bikes  
 - no one has ever seen a car  
 - nothing here makes sense  
-- your world was wiped by the dimensional bang  
-- you're here by accident  
-- and now, you want to bring it all back  
+- your presence here changes everything  
 - it’s just a vision  
 > for now.
 
@@ -100,3 +78,40 @@ the bang wasn’t natural.
 
 > you’ve already read this far.  
 > you might as well see what the game does to your brain.
+
+---
+
+## 🚨 MASSIVE SPOILERS BELOW — READ AT YOUR OWN RISK 🚨
+<details>
+<summary>💥 Click to reveal hidden TaxiDimension lore</summary>
+
+<br>
+
+### 📜 The Dimensional Bang
+
+but then came the **dimensional bang**.
+
+the event.  
+the implosion.  
+the reason everything changed.  
+no one believed the warnings. not even you.  
+you saw it on the TV—thought it was a troll.  
+but that exact moment, the sky began to have a—tear.  
+not a crack. not lightning.  
+a long, slow tear like paper soaked in time.  
+the **Taxi Dimension** is actually gone.
+
+your only escape?  
+a forgotten, dusty **dimension shifter** in your basement.  
+you didn’t even know why you had it.  
+maybe it was always meant for this.  
+maybe it was never meant to be used.  
+but you used it.  
+and now... you’re here.
+
+---
+
+> your mission is no longer just to drive.  
+> it's to **rebuild a civilization.**
+
+</details>
