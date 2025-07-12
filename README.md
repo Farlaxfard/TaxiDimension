@@ -23,20 +23,36 @@ built in Unity, inspired by *Schedule One* and that feeling of a game you want t
 you are a **professional taxi driver** from the **Taxi Dimension**.  
 a world powered by transit—where only taxis rule the roads... the art of *picking someone up and taking them somewhere else.*
 
-but here?  
-they only know bikes.  
+but then came the **dimensional bang**.
+
+the event.  
+the implosion.  
+the reason everything changed.  
+no one believed the warnings. not even you.  
+you saw it on the TV—thought it was a troll.  
+but two minutes later, the sky cracked open like a dropped egg.  
+the **Taxi Dimension** was gone.
+
+your only escape?  
+a forgotten, dusty **dimension shifter** in your basement.  
+you didn’t even know why you had it.  
+but you used it. and now... you’re here.
+
+here, where they only know bikes.  
 individual, isolated motion. no doors. no destinations shared.
 
 and now... you’re here.  
-and they’re starting to react.
+and they’re starting to react.  
+and your goal is simple:  
+**revive what was lost.**
 
 ---
 
 ### 🧪 not features — echoes
 
-- 👔 **you are trained. experienced. exact.** they are not.
-- 🚲 **the world accepts bikes.** it doesn’t understand taxis. it barely even has context for you.
-- 🎮 **this is not just driving.** it starts with driving. it does not end there.
+- 👔 **you are trained. experienced. exact.** they are not.  
+- 🚲 **the world accepts bikes.** it doesn’t understand taxis. it barely even has context for you.  
+- 🎮 **this is not just driving.** it starts with driving. it does not end there.  
 - ❗ **and remember: not everything in this README exists yet.**  
 some of it may never.
 
@@ -58,7 +74,9 @@ and it’s already waiting for you.
 - everyone rides bikes  
 - no one has ever seen a car  
 - nothing here makes sense  
-- and yet it all *feels* right  
+- your world was wiped by the dimensional bang  
+- you're here by accident  
+- and now, you want to bring it all back  
 - it’s just a vision  
 > for now.
 
@@ -72,7 +90,8 @@ and it’s already waiting for you.
 <!-- 
 note to self: the driver doesn't know everything yet. 
 don't forget what the mirror showed. 
--->
+the bang wasn’t natural.
+ -->
 
 > you’ve already read this far.  
 > you might as well see what the game does to your brain.
