@@ -83,7 +83,7 @@ the bang wasn’t natural.
 
 ## 🚨 MASSIVE SPOILERS BELOW — READ AT YOUR OWN RISK 🚨
 <details>
-<summary>click to **unfold the untold.**</summary>
+<summary>click to unfold the untold.</summary>
 
 <br>
 
